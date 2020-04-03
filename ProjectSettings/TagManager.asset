@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player
+  - GameController
+  - Background
+  - Ground
+  - Enmies
+  - wall_hidden
+  - coins
+  - Flag
+  - levelup
+  - Enemy
+  - QuestionBlock
+  - Enemies
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Ground
+  - Player
+  - Enmies
+  - wall_hidden
+  - coins
+  - Flags
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1900585939
+    locked: 0
+  - name: Ground
+    uniqueID: 1406928209
+    locked: 0
+  - name: Enmies
+    uniqueID: 4112051971
+    locked: 0
+  - name: Player
+    uniqueID: 368655979
+    locked: 0
+  - name: wall_hidden
+    uniqueID: 2539845573
+    locked: 0
+  - name: coins
+    uniqueID: 2941000119
+    locked: 0
+  - name: Flags
+    uniqueID: 3001692719
+    locked: 0
